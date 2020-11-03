@@ -1,0 +1,10 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  
+}
+button{
+  background-color: rgb(223, 62, 62);
+  width: 200px;
+  height: 50px;
+}
